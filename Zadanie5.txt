@@ -1,0 +1,10 @@
+CzyChrobaWostatnimCzasie=null
+czy_posiada_maseczke=null
+kraje_wys_ryzyka=null
+Czy_przebywano_w_otoczeniu_osob_na_kwarantannie=false
+
+CzyChrobaWostatnimCzasie=NIE
+czy_posiada_maseczke=TAK
+kraje_wys_ryzyka=NIE
+Czy_przebywano_w_otoczeniu_osob_na_kwarantannie=TAK
+
